@@ -11,12 +11,7 @@ Virduc est une plateforme d'apprentissage en ligne innovante qui intègre un **a
 ## Capture d'écran
 
 ### Version Web
-![Web Version](https://github.com/username/virduc/blob/main/images/web-version.png?raw=true)  
-*L'interface utilisateur de Virduc sur un navigateur web.*
-
-### Version Mobile
-![Mobile Version](https://github.com/username/virduc/blob/main/images/mobile-version.png?raw=true)  
-*L'interface utilisateur de Virduc sur un appareil mobile.*
+![Web Version](https://github.com/Virduc/virduc-training/raw/main/web-version.png)
 
 ## Lien du site
 Accédez à la plateforme en ligne ici : [virduc.com](https://virduc.com)
